@@ -1,16 +1,17 @@
-### Manual de como instalar una maquina en IsardVDI
+# Manual de como instalar una maquina en IsardVDI
 
-Primero de todo tienes que ir a la pagina web official de isardVDI:
+### **Primero de todo tienes que ir a la pagina web official de isardVDI**
 
-![Text alternatiu](foto1.png)
+- Luego inicias session con tus credenciales
 
-**Luego inicias session con tus credenciales**
+- Despues de inciar session, haz un click al boton que se llama "Escriptori nou"
+ 
+ - Ahora pon un nombre de tu gusto a tu maquina y tambien una descripcion si quieres
 
-![Text alternatiu](foto2.png)
+-  Luego eliges la maquina que quieres instalar
 
-**Despues de inciar session estaras en esta pagina**
-![Text alternatiu](foto3.png)
+  ej: Ubuntu, Windows etc...
 
-**Haz un click aqui**
+- Luego de hacer eso bajas al final de la pagina i haces un click al "Crea"
 
-![Text alternatiu](foto4.png)
+- Despues de esto tendras tu maquina de IsardVDI preparada para utilizar solo tienes que dar un click al iniciar y selecionar SPICE como Visor
