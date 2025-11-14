@@ -7,3 +7,6 @@ Primero de todo tienes que ir a la pagina web official de isardVDI:
 **Luego inicias session con tus credenciales**
 
 ![Text alternatiu](foto2.png)
+
+**Despues de inciar session estaras en esta pagina**
+![Text alternatiu](foto3.png)
