@@ -1,4 +1,4 @@
-# Creació de usuaris
+# Configuracion de NextCloud
 ### ***Este es el archivo que he usado de prueba:***
 ![Text alternatiu](fotonou.png)
 - 
