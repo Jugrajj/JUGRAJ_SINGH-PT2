@@ -52,7 +52,7 @@ Ubuntu ja inclou el paquet mysql-server als repositoris oficials.
 
 - sudo systemctl start mysql
 
-# Configura de MySQL:
+# Configuracion de MySQL:
 
 Accés a la consola de MySQL
 - sudo mysql
