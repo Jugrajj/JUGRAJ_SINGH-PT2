@@ -18,3 +18,7 @@
 ### Luego de eso te saldran opciones de compartir, selecionamos "Create public Link" eso creara un link al archivo, y cualquier persona con el link podra acceder lo.
 
 ![Text alternatiu](fotonou66.png)
+
+# Creación de usuarios
+![Text alternatiu](ffotonou11.png)
+### Para crear nuevos usuarios en NextCloud tenemos que hacer un Click a nuestro perfil, y luego de eso ir a "accounts"
