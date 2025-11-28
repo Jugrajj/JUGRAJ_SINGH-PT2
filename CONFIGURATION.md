@@ -1,4 +1,4 @@
-# Configuracion de NextCloud
+<img width="246" height="381" alt="image" src="https://github.com/user-attachments/assets/fa3cd5fa-441c-4bf1-ba58-60ceb76c0091" /># Configuracion de NextCloud
 ![Text alternatiu](fotoonou222.png)
 
 ### Para subir un archivo en NextCloud primero de todo tienes que hacer es darle a "new" luego de eso selecciona "Upload Files" se te abrira la carpeta, luego de ahi seleccionas el archivo que quieres subir, siguiendo estos pasos tendras tu archivo en NextCloud.
@@ -22,3 +22,6 @@
 # Creación de usuarios
 ![Text alternatiu](ffotonou11.png)
 ### Para crear nuevos usuarios en NextCloud tenemos que hacer un Click a nuestro perfil, y luego de eso ir a "accounts"
+![Text alternatiu](ffotonou12.png)
+### Aqui tenemos que hacer click a "New account"
+
