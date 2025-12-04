@@ -75,3 +75,13 @@
 ### Primero hacemos clic en “Create public link” y luego pulsamos en los tres puntos que aparecen junto a “share link”. A continuación, seleccionamos “Customize link”, donde añadiremos una contraseña y una fecha de vencimiento. De esta forma, cualquiera que reciba el enlace de nuestra carpeta necesitará introducir la contraseña para entrar, y el enlace dejará de ser válido una vez llegue la fecha que hayamos establecido.
 
 ![Text alternatiu](ffotonou23.png)
+
+# Acceso desde cualquier equipo de la red local
+
+### Para que Nextcloud sea accesible desde otra máquina distinta a la máquina virtual donde está instalado, es necesario realizar una configuración de red que permita conectarse a su servidor web.
+1. Comprobar la IP de la máquina virtual
+
+- En la máquina donde está instalado Nextcloud, obtenemos la dirección IP ejecutando: ip addr
+
+  
+  
