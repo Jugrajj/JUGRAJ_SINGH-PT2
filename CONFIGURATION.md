@@ -64,4 +64,7 @@
 ![Text alternatiu](ffotonou18.png)
 
 # Organització de carpetes i fitxers
+### He creado esta carpeta llamada "Documents Personals" para organizar me mejor los documentos.
+![Text alternatiu](ffotonou19.png)
+
 
