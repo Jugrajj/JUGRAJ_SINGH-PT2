@@ -33,3 +33,32 @@
 
 ![Text alternatiu](ffotonou15.png)
 ### Le damos a esta flechita y seleccionamos los permisos que queremos poner, haciendo esto tendremos los permisos puestos.
+
+# Assignació de rols i permisos
+
+***Administrador (Admin)***
+
+- Tiene acceso total.
+- Puede crear, editar y borrar cualquier archivo.
+- Puede gestionar usuarios y roles.
+- Puede configurar ajustes del sistema o del archivo.
+- Es el rol con mayor nivel de control.
+
+***Editor***
+
+- Puede crear, modificar y borrar archivos.
+- Puede publicar o actualizar archivos existentes.
+- No puede gestionar usuarios ni configuraciones del sistema.
+- Su trabajo se centra en el contenido, no en la administración.
+
+***Visualizador***
+
+- Solo puede ver y consultar el contenido.
+- No puede editar, borrar ni crear archivos.
+- Tampoco puede acceder a configuraciones ni gestión de usuarios.
+- Es un rol solo de lectura.
+
+# L’efecte dels permisos
+![Text alternatiu](ffotonou17.png)
+### Cuando inicio session como visualitzador en NextCloud en el apartado de compartir no me sale que permiso tiene cada uno, Pero cuando inicio session como editor o admin si me sale los permisos que tiene
+![Text alternatiu](ffotonou18.png)
