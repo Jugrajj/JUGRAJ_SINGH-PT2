@@ -25,3 +25,5 @@
 ![Text alternatiu](ffotonou12.png)
 ### Aqui tenemos que hacer click a "New account"
 
+![Text alternatiu](ffotonou13.png)
+### Ahora rellenamos esto y ya tendremos nuestro primer usuario hecho. Tenemos que hacer lo mismo para hacer otros usuarios.
