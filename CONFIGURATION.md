@@ -66,5 +66,7 @@
 # Organització de carpetes i fitxers
 ### He creado esta carpeta llamada "Documents Personals" para organizar me mejor los documentos.
 ![Text alternatiu](ffotonou19.png)
+### Y dentro de "Documents Personals" he creat dos nuevas carpetas llamadas "Tareas" y "DNI"
+![Text alternatiu](ffotonou20.png)
 
 
