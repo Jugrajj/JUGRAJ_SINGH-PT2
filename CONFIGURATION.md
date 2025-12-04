@@ -1,4 +1,4 @@
-# Configuracion de NextCloud
+<img width="479" height="338" alt="image" src="https://github.com/user-attachments/assets/dd28873c-08c6-4502-8545-c65aa822c75a" /># Configuracion de NextCloud
 ![Text alternatiu](fotoonou222.png)
 
 ### Para subir un archivo en NextCloud primero de todo tienes que hacer es darle a "new" luego de eso selecciona "Upload Files" se te abrira la carpeta, luego de ahi seleccionas el archivo que quieres subir, siguiendo estos pasos tendras tu archivo en NextCloud.
@@ -27,3 +27,10 @@
 
 ![Text alternatiu](ffotonou13.png)
 ### Ahora rellenamos esto y ya tendremos nuestro primer usuario hecho. Tenemos que hacer lo mismo para hacer otros usuarios.
+
+# Permiso de usuario
+![Text alternatiu](ffotonou14.png)
+### Para poner permiso a un archivo tenemos que dar al boton de compartir y luego buscar aqui visualitzador, editor y admin. y ponemos permiso que pertenece a cada usuario.
+
+![Text alternatiu](ffotonou15.png)
+### Le damos a esta flechita y seleccionamos los permisos que queremos poner, haciendo esto tendremos los permisos puestos.
