@@ -78,10 +78,4 @@
 
 # Acceso desde cualquier equipo de la red local
 
-### Para que Nextcloud sea accesible desde otra máquina distinta a la máquina virtual donde está instalado, es necesario realizar una configuración de red que permita conectarse a su servidor web.
-1. Comprobar la IP de la máquina virtual
-
-- En la máquina donde está instalado Nextcloud, obtenemos la dirección IP ejecutando: ip addr
-
-  
-  
+### Para permitir el acceso a Nextcloud desde otro dispositivo distinto a la máquina virtual, es necesario que el servidor de Nextcloud sea accesible dentro de la red local. Esto implica conocer la dirección IP de la máquina virtual, asegurarse de que el servidor web (Apache o Nginx) está activo y que los puertos necesarios (80 para HTTP o 443 para HTTPS) estén abiertos. Una vez hecho esto, cualquier dispositivo conectado a la misma red puede acceder a Nextcloud escribiendo la IP de la máquina virtual en el navegador.
