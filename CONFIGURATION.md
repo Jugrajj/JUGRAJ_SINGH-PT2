@@ -62,3 +62,6 @@
 ![Text alternatiu](ffotonou17.png)
 ### Cuando inicio session como visualitzador en NextCloud en el apartado de compartir no me sale que permiso tiene cada uno, Pero cuando inicio session como editor o admin si me sale los permisos que tiene
 ![Text alternatiu](ffotonou18.png)
+
+# Organització de carpetes i fitxers
+
